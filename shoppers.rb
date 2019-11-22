@@ -2,13 +2,13 @@ Encoding.default_external = "UTF-8"
 require 'r-fxxk'
 
 class Shoppers < Brainfuck
-  nxt "´"
-  inc "ン"
-  prv "ョ"
-  dec "゛"
-  opn "ノ"
-  cls "ハ"
-  put "＼"
+  nxt "☺"
+  inc "´"
+  prv "ン"
+  dec "ョ"
+  opn "゛"
+  cls "ノ"
+  put "ハ"
   get "ー"
 end
 
